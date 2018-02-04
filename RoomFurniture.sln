@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomFurniture", "RoomFurniture.csproj", "{5481F7C7-E333-B252-E983-3CFFDDB3F179}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomFurniture.Plugins", "RoomFurniture.Plugins.csproj", "{B8CBA043-2663-D403-033B-664BF5058892}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomFurniture.Editor", "RoomFurniture.Editor.csproj", "{74E26216-A089-8FF6-92EC-9B358FF3D4C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5481F7C7-E333-B252-E983-3CFFDDB3F179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5481F7C7-E333-B252-E983-3CFFDDB3F179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5481F7C7-E333-B252-E983-3CFFDDB3F179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5481F7C7-E333-B252-E983-3CFFDDB3F179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8CBA043-2663-D403-033B-664BF5058892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8CBA043-2663-D403-033B-664BF5058892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8CBA043-2663-D403-033B-664BF5058892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8CBA043-2663-D403-033B-664BF5058892}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74E26216-A089-8FF6-92EC-9B358FF3D4C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E26216-A089-8FF6-92EC-9B358FF3D4C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E26216-A089-8FF6-92EC-9B358FF3D4C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E26216-A089-8FF6-92EC-9B358FF3D4C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
